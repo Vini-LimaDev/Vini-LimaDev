@@ -18,7 +18,8 @@
 - Foco maior em back-end e integrações.
 - Experiência com bancos de dados relacionais (PostgreSQL).
 - Rotina em Linux Mint, mas navego bem entre outros sistemas.
-- Trabalho como Programador há mais de 1 ano (experiência também com Delphi).
+- Trabalho como Programador há mais de 1 ano (experiência também com Delphi).]
+- 
 ---
 
 <div align="center">
