@@ -1,0 +1,40 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # roda 1x/dia (03:00 UTC)
+  workflow_dispatch:       # permite rodar manualmente
+
+permissions:
+  contents: write          # precisa escrever na branch 'output'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate Pac-Man SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          output_dir: dist
+          # extras (se quiser customizar):
+          # theme: github-dark
+          # speed: 1
+          # mode: svg
+
+      - name: List generated files (debug)
+        run: ls -lah dist
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
