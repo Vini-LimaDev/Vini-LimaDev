@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋</h1>
 
 <p align="center">
-  Desenvolvedor de Software • Go | Python | JavaScript | Delphi • Linux | Windows | PostgreSQL
+  Desenvolvedor de Software • Go | Python | JavaScript | Delphi • Linux | Windows | PostgreSQL | SQL Server
 </p>
 
 <div align="center">
@@ -15,15 +15,13 @@
 </div>
 
 ### 📌 Sobre mim
-- Foco maior em back-end e integrações.
-- Experiência com bancos de dados relacionais (PostgreSQL).
-- Rotina em Linux Mint, mas navego bem entre outros sistemas.
-- Trabalho como Programador há mais de 1 ano (experiência também com Delphi).]
-- 
+- Meu nome é Vinicius Lima, tenho 19 anos e sou desenvolvedor a mais de 1 ano
+- Sou de Louveira - SP
+- Meu foco maior é no Backend
+- Experiência em banco de dados (SQL Server e PostgreSQL)
 ---
 
 <div align="center">
-  <!-- Removi include_all_commits e count_private para evitar erro no endpoint público -->
   <img src="https://github-readme-stats.vercel.app/api?username=Vini-LimaDev&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vini-LimaDev&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
