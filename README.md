@@ -15,10 +15,9 @@
 </div>
 
 ### 📌 Sobre mim
-- Meu nome é Vinicius Lima, tenho 19 anos e sou desenvolvedor a mais de 1 ano
+- Meu nome é Vinicius Lima, tenho 19 anos
 - Sou de Louveira - SP
-- Meu foco maior é no Backend
-- Experiência em banco de dados (SQL Server e PostgreSQL)
+- Backend Developer 
 ---
 
 <div align="center">
