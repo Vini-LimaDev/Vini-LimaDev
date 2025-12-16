@@ -35,3 +35,22 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vini-LimaDev/Vini-LimaDev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vini-LimaDev/Vini-LimaDev/output/pacman-contribution-graph.svg">
 </picture>
+
+## 🚀 Projetos
+
+### 🔹 API Pix — Simulador de Pagamentos Instantâneos
+API backend em **Node.js + TypeScript + Express** que simula o processamento de pagamentos Pix, aplicando regras de negócio como bloqueio por valor, horário e limite mensal, com integração a uma API externa mockada.
+
+---
+
+### 🔹 Serviço de Cotação de Moedas (cotacao_service)
+Sistema de cotação de moedas com backend em **FastAPI** e frontend em **React**, utilizando cache em memória e integração com a API **Frankfurter** para consulta de valores em tempo real.
+
+---
+
+### 🔹 Calculadora de Preço (price-calculator)
+Aplicação em **Go (Golang)** com frontend em **React + TypeScript**, desenvolvida para cálculo de impostos e taxas sobre valores, com importação/exportação de arquivos e integração entre backend e frontend via API local.
+
+
+
+
