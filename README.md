@@ -18,7 +18,7 @@
 - Desenvolvedor backend focado em regras de negócio e integração entre sistemas
 - Experiência com Python, JavaScript e Delphi
 - Experiência não profissional com Go (Golang)
-- 19 anos • Louveira - SP
+- 20 anos • Louveira - SP
 - Interessado em backend, APIs, automação e sistemas bem estruturados.
 ---
 
