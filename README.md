@@ -15,9 +15,11 @@
 </div>
 
 ### 📌 Sobre mim
-- Meu nome é Vinicius Lima, tenho 19 anos
-- Sou de Louveira - SP
-- Backend Developer 
+- Desenvolvedor backend focado em regras de negócio e integração entre sistemas
+- Experiência com Python, JavaScript e Delphi
+- Experiência não profissional com Go (Golang)
+- 19 anos • Louveira - SP
+- Interessado em backend, APIs, automação e sistemas bem estruturados.
 ---
 
 <div align="center">
