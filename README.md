@@ -23,8 +23,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vini-LimaDev&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vini-LimaDev&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vini-LimaDev&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vini-LimaDev&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400" height="150" />
 </div>
 
 ---
